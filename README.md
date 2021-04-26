@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/barbarbar338/readme-template/main/icon.png" alt="Logo" width="160" height="160" />
-  <h3 align="center">README Template</h3>
+  <h3 align="center">ReactionRole Example</h3>
 
   <p align="center">
-    My awesome README template
+    ReactionRole is a module that allows you to create Discord reaction role easily!
     <br />
     <a href="https://discord.gg/BjEJFwh"><strong>Get support »</strong></a>
     <br />
@@ -21,10 +21,6 @@
     <a href="https://bariscodes.me/">Some link</a>
   </p>
 </p>
-
-# ✨ ReactionRole Example
-
-ReactionRole is a module that allows you to create Discord reaction role easily!
 
 # 🏃‍♀️ Running
 
