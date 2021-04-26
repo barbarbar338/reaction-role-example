@@ -1,0 +1,23 @@
+{
+	"name": "reaction-role",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"bargs": "^1.0.2",
+		"discord.js": "^12.5.3",
+		"dotenv": "^8.2.0",
+		"nodemon": "^2.0.7",
+		"reaction-role": "^4.0.3"
+	},
+	"scripts": {
+		"dev": "nodemon ."
+	},
+	"private": true,
+	"author": {
+		"email": "demirci.baris38@gmail.com",
+		"name": "Barış DEMİRCİ",
+		"url": "https://bariscodes.me/"
+	},
+	"description": "ReactionRole is a module that allows you to create Discord reaction role easily!"
+}
