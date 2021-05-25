@@ -17,8 +17,6 @@
     <a href="https://github.com/barbarbar338/reaction-role-example/issues">Report Bug</a>
     ·
     <a href="https://github.com/barbarbar338/reaction-role-example/issues">Request Feature</a>
-    ·
-    <a href="https://bariscodes.me/">Some link</a>
   </p>
 </p>
 
